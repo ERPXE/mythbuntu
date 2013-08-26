@@ -1,0 +1,16 @@
+.:
+filelist.txt
+i386
+mythbuntu.menu
+mythbuntu.png
+x86_64
+
+./i386:
+initrd.lz
+mythbuntumain.menu
+vmlinuz
+
+./x86_64:
+initrd.lz
+mythbuntumain.menu
+vmlinuz

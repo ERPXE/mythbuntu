@@ -1,9 +1,6 @@
 MENU BEGIN MYTHBUNTULIVE
+MENU TITLE Mythbuntu Live 11.10
 MENU LABEL ^Mythbuntu Live 11.10
-# ------====> Include Menu Settings <====------
-MENU INCLUDE er/menuinc/header.module
-
-# ------====> Set Specific Page Settings <====------
 MENU BACKGROUND er/plugins/mythbuntu/mythbuntu.png
 
 MENU INCLUDE er/plugins/mythbuntu/i386/mythbuntumain.menu
